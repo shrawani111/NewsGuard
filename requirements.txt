@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+scipy
+joblib
+flask
+requests
+shap
+gensim
+textblob
+textstat
+xgboost
